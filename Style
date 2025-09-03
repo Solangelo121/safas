@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why Style is the Best Ship</title>
+</head>
+<body>
+  <header>
+    <h1>Why Style is the Best Ship</h1>
+    <p>A quick summary of how complex this pairing can be</p>
+  </header>
+
+  <section>
+    <h2>Childhood friends to separation to lovers trope</h2>
+    <article>
+      <p>
+        In my honest opinion Style works best when you separate them first. 
+        That being said this allows them to miss one another's company 
+        and anything might remind them of one another.
+      </p>
+    </article>
+  </section>
+  <footer>
+    <p>
+      If anyone were to argue, don't. For my rebuttal, 
+      I have this adorable picture:
+    </p>
+    <img 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BCriD5SfZ0piBeKmXeFrDINfnB-5u_p9Jw&s" 
+      alt="Beautiful picture of childhood friendship">
+  </footer>
+</body>
+</html>
